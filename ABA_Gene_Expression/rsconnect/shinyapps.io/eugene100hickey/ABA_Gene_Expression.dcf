@@ -1,0 +1,12 @@
+name: ABA_Gene_Expression
+title: ABA_Gene_Expression
+username:
+account: eugene100hickey
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 521701
+bundleId: 1715048
+url: https://eugene100hickey.shinyapps.io/ABA_Gene_Expression/
+when: 1542896078.17348
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,181 @@
+---
+title: "Principle Component Analysis of Schizophrenia Genes"
+author: "Katie & Eugene"
+date: "22 March 2018"
+output: pdf_document
+---
+
+```{r setup, message = FALSE, warning = FALSE, echo=F}
+setwd("~/Desktop/Academic/Research/Schiz/PCA")
+library(ggplot2)
+library(tidyr)
+require(ABAData)
+library(ABAEnrichment)
+library(splitstackshape)
+library(irlba)
+library(RColorBrewer)
+library(patchwork)
+```
+
+
+```{r data_in, message = FALSE, warning = FALSE, echo=F, cache=T}
+#reads in ABA Data
+data("dataset_adult")
+
+#reads in list of SZ genes from Nature publication
+#genes stored in object ng
+setwd("~/Desktop/Academic/Research/Schiz/PCA")
+data = read.csv2("data/nature13595-s3.csv", sep=",")
+genes = data$eQTL.gene
+data = read.csv2("data/nature13595-s3-blood.csv", sep=",")
+blood= data$eQTL.gene
+ng = as.data.frame(as.character(genes))
+ng1 = as.data.frame(as.character(blood))
+names(ng1) = names(ng)
+ng = rbind(ng, ng1)
+ng = unlist(ng)
+```
+
+
+```{r reshape, message = FALSE, warning = FALSE, echo=F, cache=T}
+#reshapes ABA dataframe into wide format
+#final spreadsheet called d1
+df = spread(dataset_adult, structure, signal)
+df = df[complete.cases(df),]
+duplicate_index = duplicated(df$entrezgene)
+df = df[!duplicate_index,]
+df$schiz = df$hgnc_symbol %in% ng
+df = df[,c(1:4, 419, 5:418)]
+genes1 = df$hgnc_symbol
+
+d1_all_genes = df[, c(5:419)]
+```
+
+
+```{r brain_area, message = F, warning = F, echo=F, cache=F}
+#function that gets all brain superstructure areas from a given brain code
+brainX <-  function(x){
+  get_name(get_superstructures(x))
+}
+
+#gets the brain codes from the dataframe column names
+brain_labels <- names(d1_all_genes)
+
+#removes the first column that has the hgnc_symbol, the first column should now be "4012"
+brain_labels <- brain_labels[-1]
+
+#runs the function brainX above to get the brain areas,
+#builds a dataframe called brain with the codes and the areas
+brain <- sapply(brain_labels, brainX) %>% 
+  unlist()
+brain = data.frame(code = names(brain), area = brain)
+
+#groups brain areas at a level two below overall brain
+#we can change this if we think we have too many groups
+#the telencephalon accounts for half the brain areas, so we subdivide further
+#likewise the metencephalon
+#finish with 17 groups
+index = which(brain$area == "Br_Brain")
+# index = index + ifelse(brain$area[index+2] == "Tel_Telencephalon", 2,0)
+#index = index + ifelse(brain$area[index+2] == "MET_Metencephalon", 1,0)
+brain = brain[index+2,]
+brain$area <- as.character(brain$area)
+
+#make the code column a little simpler and print
+brain$code <- gsub('\\.....|\\......','', brain$code)
+brain <- brain %>% dplyr::mutate(name = get_name(code))
+cc = palette()
+my_colours  <- (c(cc,"purple","brown", "darkgreen", "lightpink", "orange", "violet", "darkred", "lightgreen", "beige"))
+```
+
+
+
+
+```{r SZ_genes, message = FALSE, warning = FALSE, echo=F, cache=T}
+d1_SZ_genes <- dplyr::filter(d1_all_genes, df$schiz)
+```
+
+
+
+
+```{r pca_plots, message = F, warning = F, echo=F, cache=F}
+pca_plot <- function(frame, legend=T){
+  frame <- t(frame[,-1])
+  pca <- irlba::prcomp_irlba(frame, n=10, .scale=T)
+  q = as.data.frame(pca$x)
+  rownames(q) <- brain_labels
+  q <- q %>% dplyr::mutate(code = rownames(q))
+  frame <- dplyr::inner_join(q, brain)
+  pca_figures <- frame[,c(1:4, 11, 12, 13)] %>% 
+    gather(key="key", value="value", -code, -area) %>% 
+    dplyr::arrange(key, value) %>% 
+    dplyr::mutate(order = row_number()) %>% 
+    ggplot(aes(x = order,
+               y=value, fill = area)) +
+    geom_bar(stat = "identity") +
+    facet_wrap(~key , ncol=1, scales="free")+
+    labs(x = "", fill = "area") +
+    guides(colour=F) +
+    theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+    theme_minimal() +
+    scale_fill_manual(values = my_colours) +
+    theme(axis.title.x=element_blank(),
+          axis.text.x=element_blank(),
+          axis.ticks.x=element_blank(),
+          axis.title.y=element_blank(),
+          axis.text.y=element_blank(),
+          axis.ticks.y=element_blank())
+
+  if(!legend){pca_figures <- pca_figures + 
+    theme(legend.position = "none")}
+  
+  pca_figures
+  }
+```
+
+```{r pca_top_plots, message = F, warning = F, echo=F, cache=T}
+pca_top_plot <- function(frame, legend=T){
+  frame <- t(frame[,-1])
+  pca <- irlba::prcomp_irlba(frame, n=10, .scale=T)
+  q  <-  as.data.frame(pca$x)
+  rownames(q) <- brain_labels
+  q <- q %>% dplyr::mutate(code = rownames(q))# %>% dplyr::top_n(.,10)
+  frame <- dplyr::inner_join(q, brain)
+  pca_figures <- frame[,c(1:4, 11, 12, 13)] %>% 
+    gather(key="key", value="value", -code, -area, -name) %>% 
+    dplyr::arrange(key, value) %>% 
+    dplyr::mutate(order = row_number()) 
+  pca_figures %>% 
+    ggplot(aes(x = order,
+               y=value, fill = area)) +
+    geom_text(aes(label=name), vjust=0, angle=90) +
+    geom_bar(stat = "identity") +
+    facet_wrap(~key , ncol=1, scales="free")+
+    labs(x = "", fill = "area") +
+    guides(colour=F) +
+    theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+    theme_minimal() +
+    # scale_fill_manual(values = my_colours) +
+    theme(axis.title.x=element_blank(),
+          axis.text.x=element_blank(),
+          axis.ticks.x=element_blank(),
+          axis.title.y=element_blank(),
+          axis.text.y=element_blank(),
+          axis.ticks.y=element_blank()) 
+
+
+  if(!legend){pca_figures <- pca_figures + 
+    theme(legend.position = "none")}
+  
+  pca_figures
+  }
+```
+
+
+
+```{r plotting, message = F, warning = F, echo=F, cache=F}
+p1 <- pca_plot(d1_all_genes,F) + ggtitle("All Genes")
+p2 <- pca_plot(d1_SZ_genes, T) + ggtitle("Schizophrenia Genes")
+p1+p2
+```
+

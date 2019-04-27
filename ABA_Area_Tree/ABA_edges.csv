@@ -1,0 +1,2673 @@
+from,to
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,MamR_Mammillary Region
+MamR_Mammillary Region,PHA_Posterior Hypothalamic Area
+PHA_Posterior Hypothalamic Area,"PHA_Posterior Hypothalamic Area, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,OP_occipital pole
+OP_occipital pole,"OP_occipital pole, Left"
+"OP_occipital pole, Left","OPs_occipital pole, Left, superior aspect"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BF_Basal Forebrain
+BF_Basal Forebrain,SI_Substantia Innominata
+SI_Substantia Innominata,"SI_Substantia Innominata, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,STG_superior temporal gyrus
+STG_superior temporal gyrus,"STG_superior temporal gyrus, Right"
+"STG_superior temporal gyrus, Right","STG-i_superior temporal gyrus, Right, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,PCu_precuneus
+PCu_precuneus,"PCu_precuneus, Right"
+"PCu_precuneus, Right","Pcu-i_precuneus, Right,  inferior lateral bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,MFG_middle frontal gyrus
+MFG_middle frontal gyrus,"MFG_middle frontal gyrus, Right"
+"MFG_middle frontal gyrus, Right","MFG-s_middle frontal gyrus, Right, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,Dk_nucleus of Darkschewitsch
+Dk_nucleus of Darkschewitsch,"Dk_nucleus of Darkschewitsch, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BG_Basal Ganglia
+BG_Basal Ganglia,Str_Striatum
+Str_Striatum,Pu_Putamen
+Pu_Putamen,"Pu_Putamen, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,"PCLp_paracentral lobule, posterior part"
+"PCLp_paracentral lobule, posterior part","PCLp_paracentral lobule, posterior part, Left"
+"PCLp_paracentral lobule, posterior part, Left","PCLp-cs_paracentral lobule, posterior part, Left, bank of cingulate sulcus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-IX_IX
+Cb-IX_IX,"PV-IX_IX, Right Paravermis"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,Sp5_spinal trigeminal nucleus
+Sp5_spinal trigeminal nucleus,"Sp5_spinal trigeminal nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,IPL_inferior parietal lobule
+IPL_inferior parietal lobule,SMG_supramarginal gyrus
+SMG_supramarginal gyrus,"SMG_supramarginal gyrus, Right"
+"SMG_supramarginal gyrus, Right","SMG-i_supramarginal gyrus, Right, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,HiF_hippocampal formation
+HiF_hippocampal formation,S_Subiculum
+S_Subiculum,"S_subiculum, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,PoG_postcentral gyrus
+PoG_postcentral gyrus,"PoG_postcentral gyrus, Left"
+"PoG_postcentral gyrus, Left","PoG-sl_postcentral gyrus, Left, superior lateral aspect of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,Ins_Insula
+Ins_Insula,SIG_Short Insular Gyri
+SIG_Short Insular Gyri,"SIG_Short Insular Gyri, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,AHR_Anterior Hypothalamic Region
+AHR_Anterior Hypothalamic Region,AHA_Anterior Hypothalamic Area
+AHA_Anterior Hypothalamic Area,"AHA_Anterior Hypothalamic Area, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,LiG_lingual gyrus
+LiG_lingual gyrus,"LiG_lingual gyrus, Left"
+"LiG_lingual gyrus, Left","LiG-str_lingual gyrus, Left, striate"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,PaOG_parolfactory gyri
+PaOG_parolfactory gyri,"PaOG_parolfactory gyri, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,DT_Dorsal Thalamus
+DT_Dorsal Thalamus,ILc_Caudal Group of intralaminar Nuclei
+ILc_Caudal Group of intralaminar Nuclei,"ILc_Caudal Group of Intralaminar Nuclei, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,DT_Dorsal Thalamus
+DT_Dorsal Thalamus,MG_Medial Geniculate Complex
+MG_Medial Geniculate Complex,"MG_Medial Geniculate Complex, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,MamR_Mammillary Region
+MamR_Mammillary Region,TM_Tuberomammillary Nucleus
+TM_Tuberomammillary Nucleus,"TM_Tuberomammillary Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,SN_Substantia Nigra
+SN_Substantia Nigra,"SN_Substantia Nigra, Left"
+"SN_Substantia Nigra, Left","SNR_Substantia Nigra, pars reticulata, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,PPRF_Paramedian Pontine Reticular Formation
+PPRF_Paramedian Pontine Reticular Formation,"PRF_Pontine Reticular Formation, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-VIIB_VIIB
+Cb-VIIB_VIIB,"PV-VIIB_VIIB, Right Paravermis"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,Cl_Claustrum
+Cl_Claustrum,"Cl_Claustrum, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,MBRF_Midbrain Reticular Formation
+MBRF_Midbrain Reticular Formation,"MBRF_Midbrain Reticular Formation, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-AL_Anterior Lobe
+Cb-AL_Anterior Lobe,Cb-III_III
+Cb-III_III,"PV-III_III, Right Paravermis"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,EW_Edinger Westphal nucleus
+EW_Edinger Westphal nucleus,"EW_Edinger Westphal nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,SOC_Superior Olivary Complex
+SOC_Superior Olivary Complex,"SOC_Superior Olivary Complex, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,SbT_Subthalamus
+SbT_Subthalamus,"Sb_Subthalamic Nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BF_Basal Forebrain
+BF_Basal Forebrain,SI_Substantia Innominata
+SI_Substantia Innominata,"SI_Substantia Innominata, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,PrG_precentral gyrus
+PrG_precentral gyrus,"PrG_precentral gyrus, Left"
+"PrG_precentral gyrus, Left","PrG-prc_precentral gyrus, Left, bank of the precentral sulcus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,10_dorsal motor nucleus of the vagus
+10_dorsal motor nucleus of the vagus,"10_dorsal motor nucleus of the vagus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,IOG_inferior occipital gyrus
+IOG_inferior occipital gyrus,"IOG_inferior occipital gyrus, Left"
+"IOG_inferior occipital gyrus, Left","IOG-s_inferior occipital gyrus, Left, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,PoG_postcentral gyrus
+PoG_postcentral gyrus,"PoG_postcentral gyrus, Left"
+"PoG_postcentral gyrus, Left","PoG-cs_postcentral gyrus, Left, bank of the central sulcus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,CGMB_central grey substance of midbrain
+CGMB_central grey substance of midbrain,"CGMB_central grey substance of midbrain, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BG_Basal Ganglia
+BG_Basal Ganglia,Str_Striatum
+Str_Striatum,Acb_Nucleus Accumbens
+Acb_Nucleus Accumbens,"Acb_Nucleus Accumbens, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,ET_Epithalamus
+ET_Epithalamus,Pa_Paraventricular Nuclei of Thalamus
+Pa_Paraventricular Nuclei of Thalamus,"Pa_Paraventricular Nuclei, Right of Thalamus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,Gr_gracile nucleus
+Gr_gracile nucleus,"Gr_gracile nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,MamR_Mammillary Region
+MamR_Mammillary Region,"LHM_Lateral Hypothalamic Area, Mammillary Region"
+"LHM_Lateral Hypothalamic Area, Mammillary Region","LHM_Lateral Hypothalamic Area, Mammillary Region, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,"PCLp_paracentral lobule, posterior part"
+"PCLp_paracentral lobule, posterior part","PCLp_paracentral lobule, posterior part, Right"
+"PCLp_paracentral lobule, posterior part, Right","PCLp-l_paracentral lobule, posterior part, Right, lateral bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,Bpons_Basal Part of Pons
+Bpons_Basal Part of Pons,Pn_pontine nuclei
+Pn_pontine nuclei,"Pn_pontine nuclei, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,FP_frontal pole
+FP_frontal pole,"FP_frontal pole, Left"
+"FP_frontal pole, Left","FP-s_frontal pole, Left, superior aspect"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,LC_locus ceruleus
+LC_locus ceruleus,"LC_locus ceruleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,HiF_hippocampal formation
+HiF_hippocampal formation,CA4_CA4 field
+CA4_CA4 field,"CA4_CA4 field, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,IPL_inferior parietal lobule
+IPL_inferior parietal lobule,AnG_angular gyrus
+AnG_angular gyrus,"AnG_angular gyrus, Right"
+"AnG_angular gyrus, Right","AnG-i_angular gyrus, Right, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-Crus II_Crus II
+Cb-Crus II_Crus II,"He-Crus II_Crus II, Left Lateral Hemisphere"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BG_Basal Ganglia
+BG_Basal Ganglia,Str_Striatum
+Str_Striatum,Cd_Caudate Nucleus
+Cd_Caudate Nucleus,BCd_Body of the Caudate Nucleus
+BCd_Body of the Caudate Nucleus,"BCd_Body of Caudate Nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,CGPo_central grey of the Pons
+CGPo_central grey of the Pons,"CGPo_central grey of the pons, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbN_Cerebellar Nuclei
+CbN_Cerebellar Nuclei,Emb_Emboliform Nucleus
+Emb_Emboliform Nucleus,"Emb_Emboliform Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-VI_VI
+Cb-VI_VI,"He-VI_VI, Left Lateral Hemisphere"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,AHR_Anterior Hypothalamic Region
+AHR_Anterior Hypothalamic Region,SO_Supraoptic Nucleus
+SO_Supraoptic Nucleus,"SO_Supraoptic Nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,ET_Epithalamus
+ET_Epithalamus,PIN_pineal
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,DT_Dorsal Thalamus
+DT_Dorsal Thalamus,MG_Medial Geniculate Complex
+MG_Medial Geniculate Complex,"MG_Medial Geniculate Complex, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,HiF_hippocampal formation
+HiF_hippocampal formation,CA2_CA2 field
+CA2_CA2 field,"CA2_CA2 field, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,HG_Heschls gyrus
+HG_Heschls gyrus,"HG_Heschls gyrus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,MTG_middle temporal gyrus
+MTG_middle temporal gyrus,"MTG_middle temporal gyrus, Left"
+"MTG_middle temporal gyrus, Left","MTG-i_middle temporal gyrus, Left, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,FP_frontal pole
+FP_frontal pole,"FP_frontal pole, Right"
+"FP_frontal pole, Right","FP-s_frontal pole, Right, superior aspect"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BG_Basal Ganglia
+BG_Basal Ganglia,Str_Striatum
+Str_Striatum,Cd_Caudate Nucleus
+Cd_Caudate Nucleus,BCd_Body of the Caudate Nucleus
+BCd_Body of the Caudate Nucleus,"BCd_Body of Caudate Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,IRoG_inferior rostral gyrus
+IRoG_inferior rostral gyrus,"IRoG_inferior rostral gyrus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,CGMB_central grey substance of midbrain
+CGMB_central grey substance of midbrain,"CGMB_central grey substance of midbrain, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,Amg_Amygdala
+Amg_Amygdala,BMA_Basomedial Nucleus
+BMA_Basomedial Nucleus,"BMA_Basomedial nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,IFG_inferior frontal gyrus
+IFG_inferior frontal gyrus,"orIFG_inferior frontal gyrus, orbital part"
+"orIFG_inferior frontal gyrus, orbital part","orIFG_inferior frontal gyrus, orbital part, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,SN_Substantia Nigra
+SN_Substantia Nigra,"SN_Substantia Nigra, Left"
+"SN_Substantia Nigra, Left","SNC_Substantia Nigra, pars compacta, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,IOG_inferior occipital gyrus
+IOG_inferior occipital gyrus,"IOG_inferior occipital gyrus, Right"
+"IOG_inferior occipital gyrus, Right","IOG-i_inferior occipital gyrus, Right, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,AHR_Anterior Hypothalamic Region
+AHR_Anterior Hypothalamic Region,PVH_Paraventricular Nucleus of the Hypothalamus
+PVH_Paraventricular Nucleus of the Hypothalamus,"PVH_Paraventricular Nucleus of the Hypothalamus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,VT_Ventral Thalamus
+VT_Ventral Thalamus,"VT_Ventral Thalamus, Left"
+"VT_Ventral Thalamus, Left","R_Reticular Nucleus of Thalamus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,Amg_Amygdala
+Amg_Amygdala,CeA_Central Nucleus
+CeA_Central Nucleus,"CeA_Central Nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,PLT_planum temporale
+PLT_planum temporale,"PLT_planum temporale, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,LOrG_lateral orbital gyrus
+LOrG_lateral orbital gyrus,"LOrG_lateral orbital gyrus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-VI_VI
+Cb-VI_VI,"PV-VI_VI, Left Paravermis"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,HiF_hippocampal formation
+HiF_hippocampal formation,CA2_CA2 field
+CA2_CA2 field,"CA2_CA2 field, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,CgG_Cingulate gyrus
+CgG_Cingulate gyrus,"CgGp_Cingulate gyrus, parietal part"
+"CgGp_Cingulate gyrus, parietal part","CgGp_Cingulate gyrus, parietal part, Right"
+"CgGp_Cingulate gyrus, parietal part, Right","CgGp-i_Cingulate gyrus, parietal part, Right, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,SOG_superior occipital gyrus
+SOG_superior occipital gyrus,"SOG_superior occipital gyrus, Left"
+"SOG_superior occipital gyrus, Left","SOG-s_superior occipital gyrus, Left, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,DT_Dorsal Thalamus
+DT_Dorsal Thalamus,LGd_Dorsal Lateral Geneiculate Nucleus
+LGd_Dorsal Lateral Geneiculate Nucleus,"LGd_Dorsal Lateral Geniculate Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,AHR_Anterior Hypothalamic Region
+AHR_Anterior Hypothalamic Region,LHA_Lateral hypothalamic Area
+LHA_Lateral hypothalamic Area,"LHA_Lateral hypothalamic area, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-IX_IX
+Cb-IX_IX,"PV-IX_IX, Left Paravermis"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,PHG_parahippocampal gyrus
+PHG_parahippocampal gyrus,"PHG_parahippocampal gyrus, Right"
+"PHG_parahippocampal gyrus, Right","PHG-cos_parahippocampal gyrus, Right, bank of the cos"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BF_Basal Forebrain
+BF_Basal Forebrain,SI_Substantia Innominata
+SI_Substantia Innominata,"SI_Substantia Innominata, Left"
+"SI_Substantia Innominata, Left","DB_Diagonal Band, Left"
+"DB_Diagonal Band, Left","DBh_Diagonal Band, Horizontal Division, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,ITG_inferior temporal gyrus
+ITG_inferior temporal gyrus,"ITG_inferior temporal gyrus, Right"
+"ITG_inferior temporal gyrus, Right","ITG-its_inferior temporal gyrus, Right, bank of the its"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,MFG_middle frontal gyrus
+MFG_middle frontal gyrus,"MFG_middle frontal gyrus, Left"
+"MFG_middle frontal gyrus, Left","MFG-s_middle frontal gyrus, Left, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,Cu_cuneate nucleus
+Cu_cuneate nucleus,"Cu_cuneate nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,MBRa_Midbrain Raphe Nuclei
+MBRa_Midbrain Raphe Nuclei,"MBRa_Midbrain Raphe Nuclei, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,Cun_cuneus
+Cun_cuneus,"Cun_cuneus, Left"
+"Cun_cuneus, Left","Cun-pest_cuneus, Left, peristriate"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,6_abducens nucleus
+6_abducens nucleus,"6_abducens nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,SOG_superior occipital gyrus
+SOG_superior occipital gyrus,"SOG_superior occipital gyrus, Right"
+"SOG_superior occipital gyrus, Right","SOG-i_superior occipital gyrus, Right, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-VIIIB_VIIIB
+Cb-VIIIB_VIIIB,"PV-VIIIB_VIIIB, Right Paravermis"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,Ve_Vermis
+Ve_Vermis,PLVCb_Posterior Lobe of the Vermis
+PLVCb_Posterior Lobe of the Vermis,Ve-VIIAf_VIIAf
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,MBRF_Midbrain Reticular Formation
+MBRF_Midbrain Reticular Formation,"MBRF_Midbrain Reticular Formation, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,Ve_Vermis
+Ve_Vermis,PLVCb_Posterior Lobe of the Vermis
+PLVCb_Posterior Lobe of the Vermis,Ve-VIIIB_VIIIB
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,4_trochlear nucleus
+4_trochlear nucleus,"4_trochlear nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,TP_temporal pole
+TP_temporal pole,"TP_temporal pole, Right"
+"TP_temporal pole, Right","TP-m_temporal pole, Right, medial aspect"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,PrG_precentral gyrus
+PrG_precentral gyrus,"PrG_precentral gyrus, Left"
+"PrG_precentral gyrus, Left","PrG-cs_precentral gyrus, Left, bank of the central sulcus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,IPL_inferior parietal lobule
+IPL_inferior parietal lobule,AnG_angular gyrus
+AnG_angular gyrus,"AnG_angular gyrus, Left"
+"AnG_angular gyrus, Left","AnG-i_angular gyrus, Left, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,FuG_fusiform gyrus
+FuG_fusiform gyrus,"FuG_fusiform gyrus, Right"
+"FuG_fusiform gyrus, Right","FuG-l_fusiform gyrus, Right, lateral bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,ET_Epithalamus
+ET_Epithalamus,Hb_Habenular Nuclei
+Hb_Habenular Nuclei,"Hb_Habenular Nuclei, Left"
+"Hb_Habenular Nuclei, Left","Hl_Lateral Habenular Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,STG_superior temporal gyrus
+STG_superior temporal gyrus,"STG_superior temporal gyrus, Right"
+"STG_superior temporal gyrus, Right","STG-l_superior temporal gyrus, Right, lateral bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BG_Basal Ganglia
+BG_Basal Ganglia,GP_Globus Pallidus
+GP_Globus Pallidus,"GPi_globus pallidus, internal segment"
+"GPi_globus pallidus, internal segment","GPi_globus pallidus, internal segment, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,DT_Dorsal Thalamus
+DT_Dorsal Thalamus,DTL_Lateral Group of Nuclei
+DTL_Lateral Group of Nuclei,"DTLv_Lateral Group of Nuclei, Ventral Division"
+"DTLv_Lateral Group of Nuclei, Ventral Division","DTLv_Lateral group of Nuclei, Left, Ventral division"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,PHG_parahippocampal gyrus
+PHG_parahippocampal gyrus,"PHG_parahippocampal gyrus, Left"
+"PHG_parahippocampal gyrus, Left","PHG-l_parahippocampal gyrus, Left, lateral bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,Ins_Insula
+Ins_Insula,LIG_Long Insular Gyri
+LIG_Long Insular Gyri,"LIG_Long Insular Gyri, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,DT_Dorsal Thalamus
+DT_Dorsal Thalamus,LGd_Dorsal Lateral Geneiculate Nucleus
+LGd_Dorsal Lateral Geneiculate Nucleus,"LGd_Dorsal Lateral Geniculate Nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,Arc_arcuate nucleus of medulla
+Arc_arcuate nucleus of medulla,"Arc_arcuate nucleus of medulla, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,MBRF_Midbrain Reticular Formation
+MBRF_Midbrain Reticular Formation,"MBRF_Midbrain Reticular Formation, Left"
+"MBRF_Midbrain Reticular Formation, Left","SubCn_subcuneiform nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,PHG_parahippocampal gyrus
+PHG_parahippocampal gyrus,"PHG_parahippocampal gyrus, Left"
+"PHG_parahippocampal gyrus, Left","PHG-cos_parahippocampal gyrus, Left, bank of the cos"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,PrG_precentral gyrus
+PrG_precentral gyrus,"PrG_precentral gyrus, Right"
+"PrG_precentral gyrus, Right","PrG-cs_precentral gyrus, Right, bank of the central sulcus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-VIIB_VIIB
+Cb-VIIB_VIIB,"PV-VIIB_VIIB, Left Paravermis"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbN_Cerebellar Nuclei
+CbN_Cerebellar Nuclei,Dt_Dentate Nucleus
+Dt_Dentate Nucleus,"Dt_Dentate Nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,PrOR_Preoptic Region
+PrOR_Preoptic Region,"PrOR_Preoptic Region, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,TP_temporal pole
+TP_temporal pole,"TP_temporal pole, Left"
+"TP_temporal pole, Left","TP-i_temporal pole, Left, inferior aspect"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,Ve_Vermis
+Ve_Vermis,PLVCb_Posterior Lobe of the Vermis
+PLVCb_Posterior Lobe of the Vermis,Ve-VIIIA_VIIIA
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,AHR_Anterior Hypothalamic Region
+AHR_Anterior Hypothalamic Region,SO_Supraoptic Nucleus
+SO_Supraoptic Nucleus,"SO_Supraoptic Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,POrG_posterior orbital gyrus
+POrG_posterior orbital gyrus,"POrG_posterior orbital gyrus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,SFG_superior frontal gyrus
+SFG_superior frontal gyrus,"SFG_superior frontal gyrus, Left"
+"SFG_superior frontal gyrus, Left","SFG-l_superior frontal gyrus, Left, lateral bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,SubC_nucleus subceruleus
+SubC_nucleus subceruleus,"SubC_nucleus subceruleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,Tec_Midbrain Tectum
+Tec_Midbrain Tectum,IC_Inferior Colliculus
+IC_Inferior Colliculus,"IC_Inferior Colliculus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,STG_superior temporal gyrus
+STG_superior temporal gyrus,"STG_superior temporal gyrus, Left"
+"STG_superior temporal gyrus, Left","STG-l_superior temporal gyrus, Left, lateral bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-AL_Anterior Lobe
+Cb-AL_Anterior Lobe,Cb-V_V
+Cb-V_V,"PV-V_V, Right Paravermis"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,8Ve_vestibular nuclei
+8Ve_vestibular nuclei,"8Ve_vestibular nuclei, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,TP_temporal pole
+TP_temporal pole,"TP_temporal pole, Right"
+"TP_temporal pole, Right","TP-s_temporal pole, Right, superior aspect"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,PaOG_parolfactory gyri
+PaOG_parolfactory gyri,"PaOG_parolfactory gyri, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,LiG_lingual gyrus
+LiG_lingual gyrus,"LiG_lingual gyrus, Right"
+"LiG_lingual gyrus, Right","LiG-str_lingual gyrus, Right, striate"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-VIIIB_VIIIB
+Cb-VIIIB_VIIIB,"PV-VIIIB_VIIIB, Left Paravermis"
+Br_Brain,WM_White Matter
+WM_White Matter,TELWM_Telencephalic White Matter
+TELWM_Telencephalic White Matter,TELCom_Telencephalic Commissures
+TELCom_Telencephalic Commissures,cc_corpus callosum
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,AHR_Anterior Hypothalamic Region
+AHR_Anterior Hypothalamic Region,LHA_Lateral hypothalamic Area
+LHA_Lateral hypothalamic Area,"LHA_Lateral hypothalamic area, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,5_Trigeminal Nuclei
+5_Trigeminal Nuclei,"5_Trigeminal Nuclei, Left"
+"5_Trigeminal Nuclei, Left","Pr5_principal sensory nucleus of trigeminal nerve, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-VIIIA_VIIIA
+Cb-VIIIA_VIIIA,"PV-VIIIA_VIIIA, Right Paravermis"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,7_facial motor nucleus
+7_facial motor nucleus,"7_facial motor nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-VIIIA_VIIIA
+Cb-VIIIA_VIIIA,"He-VIIIA_VIIIA, Left Lateral Hemisphere"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,SPL_supraparietal lobule
+SPL_supraparietal lobule,"SPL_supraparietal lobule, Left"
+"SPL_supraparietal lobule, Left","SPL-i_supraparietal lobule, Left, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,SOG_superior occipital gyrus
+SOG_superior occipital gyrus,"SOG_superior occipital gyrus, Right"
+"SOG_superior occipital gyrus, Right","SOG-s_superior occipital gyrus, Right, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,Ve_Vermis
+Ve_Vermis,PLVCb_Posterior Lobe of the Vermis
+PLVCb_Posterior Lobe of the Vermis,Ve-VI_VI
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,IPL_inferior parietal lobule
+IPL_inferior parietal lobule,SMG_supramarginal gyrus
+SMG_supramarginal gyrus,"SMG_supramarginal gyrus, Left"
+"SMG_supramarginal gyrus, Left","SMG-s_supramarginal gyrus, Left, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,8Co_cochlear nuclei
+8Co_cochlear nuclei,"8Co_cochlear nuclei, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,DT_Dorsal Thalamus
+DT_Dorsal Thalamus,DTP_Posterior Group of Nuclei
+DTP_Posterior Group of Nuclei,"DTP_Posterior Group of Nuclei, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,Amg_Amygdala
+Amg_Amygdala,COMA_Cortico-medial group
+COMA_Cortico-medial group,"COMA_Cortico-medial group, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,VTA_ventral tegmental area
+VTA_ventral tegmental area,"VTA_ventral tegmental area, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,MeRF_medullary reticular formation
+MeRF_medullary reticular formation,GiRt_gigantocellular group
+GiRt_gigantocellular group,"GiRt_gigantocellular group, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,HiF_hippocampal formation
+HiF_hippocampal formation,S_Subiculum
+S_Subiculum,"S_subiculum, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,DT_Dorsal Thalamus
+DT_Dorsal Thalamus,DTM_Medial Group of Nuclei
+DTM_Medial Group of Nuclei,"DTM_Medial Group of Nuclei, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,Sp5_spinal trigeminal nucleus
+Sp5_spinal trigeminal nucleus,"Sp5_spinal trigeminal nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,IPL_inferior parietal lobule
+IPL_inferior parietal lobule,AnG_angular gyrus
+AnG_angular gyrus,"AnG_angular gyrus, Left"
+"AnG_angular gyrus, Left","AnG-s_angular gyrus, Left, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,5_Trigeminal Nuclei
+5_Trigeminal Nuclei,"5_Trigeminal Nuclei, Left"
+"5_Trigeminal Nuclei, Left","Mo5_motor nucleus of trigeminal nerve, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-FNL_Flocculonodular Lobe
+Cb-FNL_Flocculonodular Lobe,Cb-X_X
+Cb-X_X,"He-X_X, Left Lateral Hemisphere"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,PTec_Pretectal Region
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,ITG_inferior temporal gyrus
+ITG_inferior temporal gyrus,"ITG_inferior temporal gyrus, Left"
+"ITG_inferior temporal gyrus, Left","ITG-mts_inferior temporal gyrus, Left, bank of mts"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,MOrG_medial orbital gyrus
+MOrG_medial orbital gyrus,"MOrG_medial orbital gyrus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,SbT_Subthalamus
+SbT_Subthalamus,"Sb_Subthalamic Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,RaM_raphe nuclei of medulla
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,LiG_lingual gyrus
+LiG_lingual gyrus,"LiG_lingual gyrus, Left"
+"LiG_lingual gyrus, Left","LiG-pest_lingual gyrus, Left, peristriate"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,HiF_hippocampal formation
+HiF_hippocampal formation,DG_Dentate Gyrus
+DG_Dentate Gyrus,"DG_Dentate gyrus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,Cun_cuneus
+Cun_cuneus,"Cun_cuneus, Right"
+"Cun_cuneus, Right","Cun-pest_cuneus, Right, peristriate"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BF_Basal Forebrain
+BF_Basal Forebrain,SI_Substantia Innominata
+SI_Substantia Innominata,"SI_Substantia Innominata, Left"
+"SI_Substantia Innominata, Left","BST_Nucleus of Stria Terminalis, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,OTG_occipito-temporal gyrus
+OTG_occipito-temporal gyrus,"OTG_occipito-temporal gyrus, Left"
+"OTG_occipito-temporal gyrus, Left","OTG-i_occipito-temporal gyrus, Left, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,PrG_precentral gyrus
+PrG_precentral gyrus,"PrG_precentral gyrus, Right"
+"PrG_precentral gyrus, Right","PrG-prc_precentral gyrus, Right, bank of the precentral sulcus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,3_Oculomotor Nuclear Complex
+3_Oculomotor Nuclear Complex,"3_Oculomotor Nuclear Complex, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,IOG_inferior occipital gyrus
+IOG_inferior occipital gyrus,"IOG_inferior occipital gyrus, Right"
+"IOG_inferior occipital gyrus, Right","IOG-s_inferior occipital gyrus, Right, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-AL_Anterior Lobe
+Cb-AL_Anterior Lobe,Cb-V_V
+Cb-V_V,"PV-V_V, Left Paravermis"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,FP_frontal pole
+FP_frontal pole,"FP_frontal pole, Left"
+"FP_frontal pole, Left","FPm_frontal pole, Left, medial aspect"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,PCu_precuneus
+PCu_precuneus,"PCu_precuneus, Right"
+"PCu_precuneus, Right","Pcu-s_precuneus, Right, superior lateral bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,MamR_Mammillary Region
+MamR_Mammillary Region,MB_Mammillary Body
+MB_Mammillary Body,"MB_Mammillary Body, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-AL_Anterior Lobe
+Cb-AL_Anterior Lobe,Cb-III_III
+Cb-III_III,"He-III_III, Left Lateral Hemisphere"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,8Ve_vestibular nuclei
+8Ve_vestibular nuclei,"8Ve_vestibular nuclei, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,TP_temporal pole
+TP_temporal pole,"TP_temporal pole, Left"
+"TP_temporal pole, Left","TP-s_temporal pole, Left, superior aspect"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,MamR_Mammillary Region
+MamR_Mammillary Region,MB_Mammillary Body
+MB_Mammillary Body,"MB_Mammillary Body, Left"
+"MB_Mammillary Body, Left","LM_Lateral Mammillary Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,TubR_Tuberal Region
+TubR_Tuberal Region,PeF_Perifornical Nucleus
+PeF_Perifornical Nucleus,"PeF_Perifornical Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,IFG_inferior frontal gyrus
+IFG_inferior frontal gyrus,"trIFG_Inferior frontal gyrus, triangular part"
+"trIFG_Inferior frontal gyrus, triangular part","trIFG_Inferior frontal gyrus, triangular part, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,PoG_postcentral gyrus
+PoG_postcentral gyrus,"PoG_postcentral gyrus, Right"
+"PoG_postcentral gyrus, Right","PoG-pcs_postcentral gyrus, Right, bank of the posterior central sulcus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,TubR_Tuberal Region
+TubR_Tuberal Region,LTu_Lateral Tuberal Nucleus
+LTu_Lateral Tuberal Nucleus,"LTu_Lateral Tuberal Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,SN_Substantia Nigra
+SN_Substantia Nigra,"SN_Substantia Nigra, Right"
+"SN_Substantia Nigra, Right","SNR_Substantia Nigra, pars reticulata, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,CgG_Cingulate gyrus
+CgG_Cingulate gyrus,"CgGr_Cingulate gyrus, retrosplenial part"
+"CgGr_Cingulate gyrus, retrosplenial part","CgGr_Cingulate gyrus, retrosplenial part, Right"
+"CgGr_Cingulate gyrus, retrosplenial part, Right","CgGr-s_Cingulate gyrus, retrosplenial part, Right, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,Ve_Vermis
+Ve_Vermis,PLVCb_Posterior Lobe of the Vermis
+PLVCb_Posterior Lobe of the Vermis,Ve-IX_IX
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,IPL_inferior parietal lobule
+IPL_inferior parietal lobule,AnG_angular gyrus
+AnG_angular gyrus,"AnG_angular gyrus, Right"
+"AnG_angular gyrus, Right","AnG-s_angular gyrus, Right, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,PCu_precuneus
+PCu_precuneus,"PCu_precuneus, Left"
+"PCu_precuneus, Left","Pcu-s_precuneus, Left,  superior lateral bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,"PCLa_paracentral lobule, anterior part"
+"PCLa_paracentral lobule, anterior part","PCLa_paracentral lobule, anterior part, Left"
+"PCLa_paracentral lobule, anterior part, Left","PCLa-i_paracentral lobule, anterior part, Left, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,Pir_piriform cortex
+Pir_piriform cortex,"Pir_piriform cortex, left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,RPn_pontine raphe nucleus
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-AL_Anterior Lobe
+Cb-AL_Anterior Lobe,Cb-III_III
+Cb-III_III,"PV-III_III, Left Paravermis"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,MBRa_Midbrain Raphe Nuclei
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-VI_VI
+Cb-VI_VI,"He-VI_VI, Right Lateral Hemisphere"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,LiG_lingual gyrus
+LiG_lingual gyrus,"LiG_lingual gyrus, Right"
+"LiG_lingual gyrus, Right","LiG-pest_lingual gyrus, Right, peristriate"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-FNL_Flocculonodular Lobe
+Cb-FNL_Flocculonodular Lobe,Cb-X_X
+Cb-X_X,"PV-X_X, Left Paravermis"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,IRoG_inferior rostral gyrus
+IRoG_inferior rostral gyrus,"IRoG_inferior rostral gyrus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,RN_Red Nucleus
+RN_Red Nucleus,"RN_Red Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-Crus I_Crus I
+Cb-Crus I_Crus I,"He-Crus I_Crus I, Left Lateral Hemisphere"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbN_Cerebellar Nuclei
+CbN_Cerebellar Nuclei,Dt_Dentate Nucleus
+Dt_Dentate Nucleus,"Dt_Dentate Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,MFG_middle frontal gyrus
+MFG_middle frontal gyrus,"MFG_middle frontal gyrus, Left"
+"MFG_middle frontal gyrus, Left","MFG-i_middle frontal gyrus, Left, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,Amg_Amygdala
+Amg_Amygdala,LA_Lateral Nucleus
+LA_Lateral Nucleus,"LA_Lateral Nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BG_Basal Ganglia
+BG_Basal Ganglia,Str_Striatum
+Str_Striatum,Pu_Putamen
+Pu_Putamen,"Pu_Putamen, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,Ve_Vermis
+Ve_Vermis,PLVCb_Posterior Lobe of the Vermis
+PLVCb_Posterior Lobe of the Vermis,Ve-VIIAt_VIIAt
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,SCG_subcallosal gyrus
+SCG_subcallosal gyrus,"SCG_subcollosal gyrus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,TubR_Tuberal Region
+TubR_Tuberal Region,DMH_Dorsomedial Hypothalamic Nucleus
+DMH_Dorsomedial Hypothalamic Nucleus,"DMH_Dorsomedial hypothalamic Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbN_Cerebellar Nuclei
+CbN_Cerebellar Nuclei,Emb_Emboliform Nucleus
+Emb_Emboliform Nucleus,"Emb_Emboliform Nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,SRoG_superior rostral gyrus
+SRoG_superior rostral gyrus,"SRoG_superior rostral gyrus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-VIIIA_VIIIA
+Cb-VIIIA_VIIIA,"PV-VIIIA_VIIIA, Left Paravermis"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-VIIIB_VIIIB
+Cb-VIIIB_VIIIB,"He-VIIIB_VIIIB, Left Lateral Hemisphere"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,MOrG_medial orbital gyrus
+MOrG_medial orbital gyrus,"MOrG_medial orbital gyrus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,TG_transverse gyri
+TG_transverse gyri,"TG_transverse gyri, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,PLP_planum polare
+PLP_planum polare,"PLP_planum polare, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,GRe_gyrus rectus
+GRe_gyrus rectus,"GRe_gyrus rectus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,PPRF_Paramedian Pontine Reticular Formation
+PPRF_Paramedian Pontine Reticular Formation,"PRF_Pontine Reticular Formation, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BG_Basal Ganglia
+BG_Basal Ganglia,Str_Striatum
+Str_Striatum,Cd_Caudate Nucleus
+Cd_Caudate Nucleus,HCd_Head of the Caudate Nucleus
+HCd_Head of the Caudate Nucleus,"HCd_Head of Caudate Nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,ITG_inferior temporal gyrus
+ITG_inferior temporal gyrus,"ITG_inferior temporal gyrus, Right"
+"ITG_inferior temporal gyrus, Right","ITG-mts_inferior temporal gyrus, Right, bank of mts"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,DT_Dorsal Thalamus
+DT_Dorsal Thalamus,DTA_Anterior Group of Nuclei
+DTA_Anterior Group of Nuclei,"DTA_Anterior Group of Nuclei, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,IO_inferior olivary complex
+IO_inferior olivary complex,"IO_inferior olivary complex, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,PrOR_Preoptic Region
+PrOR_Preoptic Region,"PrOR_Preoptic Region, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,ICjl_interstitial nucleus of Cajal
+ICjl_interstitial nucleus of Cajal,"ICjl_interstitial nucleus of Cajal, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,PrG_precentral gyrus
+PrG_precentral gyrus,"PrG_precentral gyrus, Left"
+"PrG_precentral gyrus, Left","PrG-il_precentral gyrus, Left, inferior lateral aspect of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,ITG_inferior temporal gyrus
+ITG_inferior temporal gyrus,"ITG_inferior temporal gyrus, Right"
+"ITG_inferior temporal gyrus, Right","ITG-l_inferior temporal gyrus, Right, lateral bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,MamR_Mammillary Region
+MamR_Mammillary Region,MB_Mammillary Body
+MB_Mammillary Body,"MB_Mammillary Body, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,Ve_Vermis
+Ve_Vermis,PLVCb_Posterior Lobe of the Vermis
+PLVCb_Posterior Lobe of the Vermis,Ve-VIIB_VIIB
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,DT_Dorsal Thalamus
+DT_Dorsal Thalamus,DTL_Lateral Group of Nuclei
+DTL_Lateral Group of Nuclei,"DTLd_Lateral Group of Nuclei, Dorsal Division"
+"DTLd_Lateral Group of Nuclei, Dorsal Division","DTLd_Lateral group of Nuclei, Right, Dorsal Division"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,Amg_Amygdala
+Amg_Amygdala,BLA_Basolateral Nucleus
+BLA_Basolateral Nucleus,"BLA_Basolateral Nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,IFG_inferior frontal gyrus
+IFG_inferior frontal gyrus,"trIFG_Inferior frontal gyrus, triangular part"
+"trIFG_Inferior frontal gyrus, triangular part","trIFG_Inferior frontal gyrus, triangular part, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,PrG_precentral gyrus
+PrG_precentral gyrus,"PrG_precentral gyrus, Right"
+"PrG_precentral gyrus, Right","PrG-sl_precentral gyrus, Right, superior lateral aspect of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,Amg_Amygdala
+Amg_Amygdala,LA_Lateral Nucleus
+LA_Lateral Nucleus,"LA_Lateral Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,VT_Ventral Thalamus
+VT_Ventral Thalamus,"VT_Ventral Thalamus, Right"
+"VT_Ventral Thalamus, Right","R_Reticular Nucleus of Thalamus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,IPL_inferior parietal lobule
+IPL_inferior parietal lobule,SMG_supramarginal gyrus
+SMG_supramarginal gyrus,"SMG_supramarginal gyrus, Right"
+"SMG_supramarginal gyrus, Right","SMG-s_supramarginal gyrus, Right, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-Crus II_Crus II
+Cb-Crus II_Crus II,"PV-Crus II_Crus II, Right Paravermis"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,CgG_Cingulate gyrus
+CgG_Cingulate gyrus,"CgGp_Cingulate gyrus, parietal part"
+"CgGp_Cingulate gyrus, parietal part","CgGp_Cingulate gyrus, parietal part, Left"
+"CgGp_Cingulate gyrus, parietal part, Left","CgGp-s_Cingulate gyrus, parietal part, Left, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,Arc_arcuate nucleus of medulla
+Arc_arcuate nucleus of medulla,"Arc_arcuate nucleus of medulla, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,SN_Substantia Nigra
+SN_Substantia Nigra,"SN_Substantia Nigra, Right"
+"SN_Substantia Nigra, Right","SNC_Substantia Nigra, pars compacta, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-VIIB_VIIB
+Cb-VIIB_VIIB,"He-VIIB_VIIB, Right Lateral Hemisphere"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,"PCLa_paracentral lobule, anterior part"
+"PCLa_paracentral lobule, anterior part","PCLa_paracentral lobule, anterior part, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,Ins_Insula
+Ins_Insula,SIG_Short Insular Gyri
+SIG_Short Insular Gyri,"SIG_Short Insular Gyri, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BG_Basal Ganglia
+BG_Basal Ganglia,GP_Globus Pallidus
+GP_Globus Pallidus,"GPe_globus pallidus, external segment"
+"GPe_globus pallidus, external segment","GPe_globus pallidus, external segment, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,PLT_planum temporale
+PLT_planum temporale,"PLT_planum temporale, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,PoG_postcentral gyrus
+PoG_postcentral gyrus,"PoG_postcentral gyrus, Left"
+"PoG_postcentral gyrus, Left","PoG-il_postcentral gyrus, Left, inferior lateral aspect of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,CgG_Cingulate gyrus
+CgG_Cingulate gyrus,"CgGp_Cingulate gyrus, parietal part"
+"CgGp_Cingulate gyrus, parietal part","CgGp_Cingulate gyrus, parietal part, Right"
+"CgGp_Cingulate gyrus, parietal part, Right","CgGp-s_Cingulate gyrus, parietal part, Right, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,TubR_Tuberal Region
+TubR_Tuberal Region,ARH_Arcuate Nucleus of the Hypothalamus
+ARH_Arcuate Nucleus of the Hypothalamus,"ARH_Arcuate Nucleus of the Hypothalamus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,HG_Heschls gyrus
+HG_Heschls gyrus,"HG_Heschls gyrus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,SOC_Superior Olivary Complex
+SOC_Superior Olivary Complex,"SOC_Superior Olivary Complex, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,"PCLp_paracentral lobule, posterior part"
+"PCLp_paracentral lobule, posterior part","PCLp_paracentral lobule, posterior part, Left"
+"PCLp_paracentral lobule, posterior part, Left","PCLp-l_paracentral lobule, posterior part, Left, lateral bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,Ve_Vermis
+Ve_Vermis,ALVCb_Anterior Lobe of the Vermis
+ALVCb_Anterior Lobe of the Vermis,Ve-III_III
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbN_Cerebellar Nuclei
+CbN_Cerebellar Nuclei,Glo_Globose Nucleus
+Glo_Globose Nucleus,"Glo_Globose Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,GRe_gyrus rectus
+GRe_gyrus rectus,"GRe_gyrus rectus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,12_hypoglossal nucleus
+12_hypoglossal nucleus,"12_hypoglossal nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BF_Basal Forebrain
+BF_Basal Forebrain,SptN_Septal nuclei
+SptN_Septal nuclei,"SptN_Septal nuclei, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,MeRF_medullary reticular formation
+MeRF_medullary reticular formation,CMRt_central medullary reticular group
+CMRt_central medullary reticular group,"CMRt_central medullary reticular group, Right"
+Br_Brain,WM_White Matter
+WM_White Matter,TELWM_Telencephalic White Matter
+TELWM_Telencephalic White Matter,TelTr_Telencephalic White Matter Tracts
+TelTr_Telencephalic White Matter Tracts,cgb_cingulum bundle
+cgb_cingulum bundle,"cgb_cingulum bundle, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,TubR_Tuberal Region
+TubR_Tuberal Region,ARH_Arcuate Nucleus of the Hypothalamus
+ARH_Arcuate Nucleus of the Hypothalamus,"ARH_Arcuate Nucleus of the Hypothalamus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,RN_Red Nucleus
+RN_Red Nucleus,"RN_Red Nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,Amg_Amygdala
+Amg_Amygdala,ATZ_Amygdaloid Transition Zone
+ATZ_Amygdaloid Transition Zone,"ATZ_Amygdaloid Transition zone, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,AOrG_anterior orbital gyrus
+AOrG_anterior orbital gyrus,"AOrG_anterior orbital gyrus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,CgG_Cingulate gyrus
+CgG_Cingulate gyrus,"CgGf_Cingulate gyrus, frontal part"
+"CgGf_Cingulate gyrus, frontal part","CgGf_Cingulate gyrus, frontal part, Right"
+"CgGf_Cingulate gyrus, frontal part, Right","CgGf-s_Cingulate gyrus, frontal part, Right, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BG_Basal Ganglia
+BG_Basal Ganglia,Str_Striatum
+Str_Striatum,Cd_Caudate Nucleus
+Cd_Caudate Nucleus,HCd_Head of the Caudate Nucleus
+HCd_Head of the Caudate Nucleus,"HCd_Head of Caudate Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,AHR_Anterior Hypothalamic Region
+AHR_Anterior Hypothalamic Region,PVH_Paraventricular Nucleus of the Hypothalamus
+PVH_Paraventricular Nucleus of the Hypothalamus,"PVH_Paraventricular Nucleus of the Hypothalamus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,SubC_nucleus subceruleus
+SubC_nucleus subceruleus,"SubC_nucleus subceruleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BG_Basal Ganglia
+BG_Basal Ganglia,GP_Globus Pallidus
+GP_Globus Pallidus,"GPe_globus pallidus, external segment"
+"GPe_globus pallidus, external segment","GPe_globus pallidus, external segment, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,DT_Dorsal Thalamus
+DT_Dorsal Thalamus,DTA_Anterior Group of Nuclei
+DTA_Anterior Group of Nuclei,"DTA_Anterior Group of Nuclei, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,MFG_middle frontal gyrus
+MFG_middle frontal gyrus,"MFG_middle frontal gyrus, Right"
+"MFG_middle frontal gyrus, Right","MFG-i_middle frontal gyrus, Right, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-VIIIA_VIIIA
+Cb-VIIIA_VIIIA,"He-VIIIA_VIIIA, Right Lateral Hemisphere"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,PoG_postcentral gyrus
+PoG_postcentral gyrus,"PoG_postcentral gyrus, Left"
+"PoG_postcentral gyrus, Left","PoG-pcs_postcentral gyrus, Left, bank of the posterior central sulcus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,TG_transverse gyri
+TG_transverse gyri,"TG_transverse gyri, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,OP_occipital pole
+OP_occipital pole,"OP_occipital pole, Left"
+"OP_occipital pole, Left","OPl_occipital pole, Left, lateral aspect"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,Ve_Vermis
+Ve_Vermis,ALVCb_Anterior Lobe of the Vermis
+ALVCb_Anterior Lobe of the Vermis,Ve-IV_IV
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,3_Oculomotor Nuclear Complex
+3_Oculomotor Nuclear Complex,"3_Oculomotor Nuclear Complex, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,IPL_inferior parietal lobule
+IPL_inferior parietal lobule,SMG_supramarginal gyrus
+SMG_supramarginal gyrus,"SMG_supramarginal gyrus, Left"
+"SMG_supramarginal gyrus, Left","SMG-i_supramarginal gyrus, Left, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,SFG_superior frontal gyrus
+SFG_superior frontal gyrus,"SFG_superior frontal gyrus, Right"
+"SFG_superior frontal gyrus, Right","SFG-l_superior frontal gyrus, Right, lateral bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,FP_frontal pole
+FP_frontal pole,"FP_frontal pole, Right"
+"FP_frontal pole, Right","FPm_frontal pole, Right, medial aspect"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,4_trochlear nucleus
+4_trochlear nucleus,"4_trochlear nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BF_Basal Forebrain
+BF_Basal Forebrain,SI_Substantia Innominata
+SI_Substantia Innominata,"SI_Substantia Innominata, Left"
+"SI_Substantia Innominata, Left","nbM_Basal nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,Amg_Amygdala
+Amg_Amygdala,COMA_Cortico-medial group
+COMA_Cortico-medial group,"COMA_Cortico-medial group, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,Amg_Amygdala
+Amg_Amygdala,BLA_Basolateral Nucleus
+BLA_Basolateral Nucleus,"BLA_Basolateral Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,MPB_medial parabrachial nucleus
+MPB_medial parabrachial nucleus,"MPB_medial parabrachial nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,CgG_Cingulate gyrus
+CgG_Cingulate gyrus,"CgGr_Cingulate gyrus, retrosplenial part"
+"CgGr_Cingulate gyrus, retrosplenial part","CgGr_Cingulate gyrus, retrosplenial part, Left"
+"CgGr_Cingulate gyrus, retrosplenial part, Left","CgGr-s_Cingulate gyrus, retrosplenial part, Left, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,Ve_Vermis
+Ve_Vermis,FNL_Flocculonodular Lobe of the Vermis
+FNL_Flocculonodular Lobe of the Vermis,Ve-X_X
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,Ve_Vermis
+Ve_Vermis,ALVCb_Anterior Lobe of the Vermis
+ALVCb_Anterior Lobe of the Vermis,Ve-V_V
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,AOrG_anterior orbital gyrus
+AOrG_anterior orbital gyrus,"AOrG_anterior orbital gyrus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,"PCLa_paracentral lobule, anterior part"
+"PCLa_paracentral lobule, anterior part","PCLa_paracentral lobule, anterior part, Left"
+"PCLa_paracentral lobule, anterior part, Left","PCLa-s_paracentral lobule, anterior part, Left, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,MPB_medial parabrachial nucleus
+MPB_medial parabrachial nucleus,"MPB_medial parabrachial nucleus,Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,STG_superior temporal gyrus
+STG_superior temporal gyrus,"STG_superior temporal gyrus, Left"
+"STG_superior temporal gyrus, Left","STG-i_superior temporal gyrus, Left, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,PoG_postcentral gyrus
+PoG_postcentral gyrus,"PoG_postcentral gyrus, Right"
+"PoG_postcentral gyrus, Right","PoG-sl_postcentral gyrus, Right, superior lateral aspect of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,LPB_lateral parabrachial nucleus
+LPB_lateral parabrachial nucleus,"LPB_lateral parabrachial nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,MamR_Mammillary Region
+MamR_Mammillary Region,"LHM_Lateral Hypothalamic Area, Mammillary Region"
+"LHM_Lateral Hypothalamic Area, Mammillary Region","LHM_Lateral Hypothalamic Area, Mammillary Region, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,PrG_precentral gyrus
+PrG_precentral gyrus,"PrG_precentral gyrus, Left"
+"PrG_precentral gyrus, Left","PrG-sl_precentral gyrus, Left, superior lateral aspect of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,Cl_Claustrum
+Cl_Claustrum,"Cl_Claustrum, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,IFG_inferior frontal gyrus
+IFG_inferior frontal gyrus,"opIFG_inferior frontal gyrus, opercular part"
+"opIFG_inferior frontal gyrus, opercular part","opIFG_inferior frontal gyrus, opercular part, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,"PCLp_paracentral lobule, posterior part"
+"PCLp_paracentral lobule, posterior part","PCLp_paracentral lobule, posterior part, Right"
+"PCLp_paracentral lobule, posterior part, Right","PCLp-cs_paracentral lobule, posterior part, Right, bank of cingulate sulcus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,DT_Dorsal Thalamus
+DT_Dorsal Thalamus,DTL_Lateral Group of Nuclei
+DTL_Lateral Group of Nuclei,"DTLd_Lateral Group of Nuclei, Dorsal Division"
+"DTLd_Lateral Group of Nuclei, Dorsal Division","DTLd_Lateral group of Nuclei, Left, Dorsal Division"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,CgG_Cingulate gyrus
+CgG_Cingulate gyrus,"CgGf_Cingulate gyrus, frontal part"
+"CgGf_Cingulate gyrus, frontal part","CgGf_Cingulate gyrus, frontal part, Left"
+"CgGf_Cingulate gyrus, frontal part, Left","CgGf-i_Cingulate gyrus, frontal part, Left, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,FuG_fusiform gyrus
+FuG_fusiform gyrus,"FuG_fusiform gyrus, Left"
+"FuG_fusiform gyrus, Left","FuG-cos_fusiform gyrus, Left, bank of cos"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,5_Trigeminal Nuclei
+5_Trigeminal Nuclei,"5_Trigeminal Nuclei, Right"
+"5_Trigeminal Nuclei, Right","Mo5_motor nucleus of trigeminal nerve, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-Crus II_Crus II
+Cb-Crus II_Crus II,"PV-Crus II_Crus II, Left Paravermis"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,CGS_central glial substance
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-AL_Anterior Lobe
+Cb-AL_Anterior Lobe,Cb-V_V
+Cb-V_V,"He-V_V, Left Lateral Hemisphere"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,LOrG_lateral orbital gyrus
+LOrG_lateral orbital gyrus,"LOrG_lateral orbital gyrus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BF_Basal Forebrain
+BF_Basal Forebrain,SI_Substantia Innominata
+SI_Substantia Innominata,"SI_Substantia Innominata, Left"
+"SI_Substantia Innominata, Left","DB_Diagonal Band, Left"
+"DB_Diagonal Band, Left","DBv_Diagonal Band, Vertical Division, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,DT_Dorsal Thalamus
+DT_Dorsal Thalamus,DTL_Lateral Group of Nuclei
+DTL_Lateral Group of Nuclei,"DTLv_Lateral Group of Nuclei, Ventral Division"
+"DTLv_Lateral Group of Nuclei, Ventral Division","DTLv_Lateral group of Nuclei, Right, Ventral division"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,FuG_fusiform gyrus
+FuG_fusiform gyrus,"FuG_fusiform gyrus, Left"
+"FuG_fusiform gyrus, Left","FuG-l_fusiform gyrus, Left, lateral bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,ET_Epithalamus
+ET_Epithalamus,Hb_Habenular Nuclei
+Hb_Habenular Nuclei,"Hb_Habenular Nuclei, Left"
+"Hb_Habenular Nuclei, Left","Hm_Medial Habenular Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,PLP_planum polare
+PLP_planum polare,"PLP_planum polare, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,Tec_Midbrain Tectum
+Tec_Midbrain Tectum,SC_Superior Colliculus
+SC_Superior Colliculus,"SC_Superior Colliculus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BG_Basal Ganglia
+BG_Basal Ganglia,Str_Striatum
+Str_Striatum,Acb_Nucleus Accumbens
+Acb_Nucleus Accumbens,"Acb_Nucleus Accumbens, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,PoG_postcentral gyrus
+PoG_postcentral gyrus,"PoG_postcentral gyrus, Right"
+"PoG_postcentral gyrus, Right","PoG-il_postcentral gyrus, Right, inferior lateral aspect of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,MTG_middle temporal gyrus
+MTG_middle temporal gyrus,"MTG_middle temporal gyrus, Left"
+"MTG_middle temporal gyrus, Left","MTG-s_middle temporal gyrus, Left, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BF_Basal Forebrain
+BF_Basal Forebrain,SI_Substantia Innominata
+SI_Substantia Innominata,"SI_Substantia Innominata, Left"
+"SI_Substantia Innominata, Left","OlfT_Olfactory Tubercle, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,HiF_hippocampal formation
+HiF_hippocampal formation,CA1_CA1 field
+CA1_CA1 field,"CA1_CA1 field, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,SFG_superior frontal gyrus
+SFG_superior frontal gyrus,"SFG_superior frontal gyrus, Left"
+"SFG_superior frontal gyrus, Left","SFG-m_superior frontal gyrus, Left, medial bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,Gr_gracile nucleus
+Gr_gracile nucleus,"Gr_gracile nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,IO_inferior olivary complex
+IO_inferior olivary complex,"IO_inferior olivary complex, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,DT_Dorsal Thalamus
+DT_Dorsal Thalamus,ILr_Rostral Group of Intralaminar Nuclei
+ILr_Rostral Group of Intralaminar Nuclei,"ILr_Rostral Group of intralaminar Nuclei, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,PoG_postcentral gyrus
+PoG_postcentral gyrus,"PoG_postcentral gyrus, Right"
+"PoG_postcentral gyrus, Right","PoG-cs_postcentral gyrus, Right, bank of the central sulcus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,MTG_middle temporal gyrus
+MTG_middle temporal gyrus,"MTG_middle temporal gyrus, Right"
+"MTG_middle temporal gyrus, Right","MTG-i_middle temporal gyrus, Right, inferior bank of gyrus"
+Br_Brain,SS_Sulci & Spaces
+SS_Sulci & Spaces,Vent_Ventricles
+Vent_Ventricles,LV_Lateral Ventricle
+LV_Lateral Ventricle,CPLV_Choroid Plexus of the lateral ventricle
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,Amg_Amygdala
+Amg_Amygdala,CeA_Central Nucleus
+CeA_Central Nucleus,"CeA_Central Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,TP_temporal pole
+TP_temporal pole,"TP_temporal pole, Right"
+"TP_temporal pole, Right","TP-i_temporal pole, Right, inferior aspect"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,7_facial motor nucleus
+7_facial motor nucleus,"7_facial motor nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbN_Cerebellar Nuclei
+CbN_Cerebellar Nuclei,Fas_Fastigial Nucleus
+Fas_Fastigial Nucleus,"Fas_Fastigial Nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,12_hypoglossal nucleus
+12_hypoglossal nucleus,"12_hypoglossal nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-Crus I_Crus I
+Cb-Crus I_Crus I,"He-Crus I_Crus I, Right Lateral Hemisphere"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,CgG_Cingulate gyrus
+CgG_Cingulate gyrus,"CgGr_Cingulate gyrus, retrosplenial part"
+"CgGr_Cingulate gyrus, retrosplenial part","CgGr_Cingulate gyrus, retrosplenial part, Left"
+"CgGr_Cingulate gyrus, retrosplenial part, Left","CgGr-i_Cingulate gyrus, retrosplenial part, Left, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,OP_occipital pole
+OP_occipital pole,"OP_occipital pole, Left"
+"OP_occipital pole, Left","OPi_occipital pole, Left, inferior aspect"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,PCu_precuneus
+PCu_precuneus,"PCu_precuneus, Left"
+"PCu_precuneus, Left","Pcu-i_precuneus, Left, inferior lateral bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,HiF_hippocampal formation
+HiF_hippocampal formation,CA3_CA3 field
+CA3_CA3 field,"CA3_CA3 field, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,ITG_inferior temporal gyrus
+ITG_inferior temporal gyrus,"ITG_inferior temporal gyrus, Left"
+"ITG_inferior temporal gyrus, Left","ITG-its_inferior temporal gyrus, Left, bank of the its"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,CGPo_central grey of the Pons
+CGPo_central grey of the Pons,"CGPo_central grey of the pons, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,MBRF_Midbrain Reticular Formation
+MBRF_Midbrain Reticular Formation,"MBRF_Midbrain Reticular Formation, Left"
+"MBRF_Midbrain Reticular Formation, Left","CnF_cuneiform nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,MamR_Mammillary Region
+MamR_Mammillary Region,SuM_Supramammillary Nucleus
+SuM_Supramammillary Nucleus,"SuM_Supramammillary Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,TP_temporal pole
+TP_temporal pole,"TP_temporal pole, Left"
+"TP_temporal pole, Left","TP-m_temporal pole, Left, medial aspect"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,AHR_Anterior Hypothalamic Region
+AHR_Anterior Hypothalamic Region,LHA_Lateral hypothalamic Area
+LHA_Lateral hypothalamic Area,"LHA_Lateral hypothalamic area, Left"
+"LHA_Lateral hypothalamic area, Left","PalHy_Pallidohypothalamic Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,HiF_hippocampal formation
+HiF_hippocampal formation,DG_Dentate Gyrus
+DG_Dentate Gyrus,"DG_Dentate gyrus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,5_Trigeminal Nuclei
+5_Trigeminal Nuclei,"5_Trigeminal Nuclei, Right"
+"5_Trigeminal Nuclei, Right","Pr5_principal sensory nucleus of trigeminal nerve, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,TubR_Tuberal Region
+TubR_Tuberal Region,"LHT_Lateral Hypothalamic Area, Tuberal Region"
+"LHT_Lateral Hypothalamic Area, Tuberal Region","LHT_Lateral Hypothalamic Area, Tuberal Region, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbN_Cerebellar Nuclei
+CbN_Cerebellar Nuclei,Glo_Globose Nucleus
+Glo_Globose Nucleus,"Glo_Globose Nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,MamR_Mammillary Region
+MamR_Mammillary Region,PHA_Posterior Hypothalamic Area
+PHA_Posterior Hypothalamic Area,"PHA_Posterior Hypothalamic Area, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,ICjl_interstitial nucleus of Cajal
+ICjl_interstitial nucleus of Cajal,"ICjl_interstitial nucleus of Cajal, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,Ins_Insula
+Ins_Insula,LIG_Long Insular Gyri
+LIG_Long Insular Gyri,"LIG_Long Insular Gyri, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,MeRF_medullary reticular formation
+MeRF_medullary reticular formation,GiRt_gigantocellular group
+GiRt_gigantocellular group,"GiRt_gigantocellular group, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,"PCLa_paracentral lobule, anterior part"
+"PCLa_paracentral lobule, anterior part","PCLa_paracentral lobule, anterior part, Right"
+"PCLa_paracentral lobule, anterior part, Right","PCLa-i_paracentral lobule, anterior part, Right, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,CgG_Cingulate gyrus
+CgG_Cingulate gyrus,"CgGf_Cingulate gyrus, frontal part"
+"CgGf_Cingulate gyrus, frontal part","CgGf_Cingulate gyrus, frontal part, Right"
+"CgGf_Cingulate gyrus, frontal part, Right","CgGf-i_Cingulate gyrus, frontal part, Right, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,HiF_hippocampal formation
+HiF_hippocampal formation,CA1_CA1 field
+CA1_CA1 field,"CA1_CA1 field, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,fro_frontal operculum
+fro_frontal operculum,"fro_frontal operculum, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,CgG_Cingulate gyrus
+CgG_Cingulate gyrus,"CgGf_Cingulate gyrus, frontal part"
+"CgGf_Cingulate gyrus, frontal part","CgGf_Cingulate gyrus, frontal part, Left"
+"CgGf_Cingulate gyrus, frontal part, Left","CgGf-s_Cingulate gyrus, frontal part, Left, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,VT_Ventral Thalamus
+VT_Ventral Thalamus,"VT_Ventral Thalamus, Right"
+"VT_Ventral Thalamus, Right","ZI_Zona Incerta, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-IX_IX
+Cb-IX_IX,"He-IX_IX, Left Lateral Hemisphere"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,Tec_Midbrain Tectum
+Tec_Midbrain Tectum,SC_Superior Colliculus
+SC_Superior Colliculus,"SC_Superior Colliculus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,MBRF_Midbrain Reticular Formation
+MBRF_Midbrain Reticular Formation,"MBRF_Midbrain Reticular Formation, Right"
+"MBRF_Midbrain Reticular Formation, Right","CnF_cuneiform nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,RPn_pontine raphe nucleus
+RPn_pontine raphe nucleus,"RPn_pontine raphe nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,Amg_Amygdala
+Amg_Amygdala,ATZ_Amygdaloid Transition Zone
+ATZ_Amygdaloid Transition Zone,"ATZ_Amygdaloid Transition zone, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,VTA_ventral tegmental area
+VTA_ventral tegmental area,"VTA_ventral tegmental area, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,LPB_lateral parabrachial nucleus
+LPB_lateral parabrachial nucleus,"LPB_lateral parabrachial nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,FP_frontal pole
+FP_frontal pole,"FP_frontal pole, Right"
+"FP_frontal pole, Right","FPi_frontal pole, Right, inferior aspect"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,ET_Epithalamus
+ET_Epithalamus,Hb_Habenular Nuclei
+Hb_Habenular Nuclei,"Hb_Habenular Nuclei, Right"
+"Hb_Habenular Nuclei, Right","Hm_Medial Habenular Nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,TubR_Tuberal Region
+TubR_Tuberal Region,VMH_Ventromedial Hypothalamic Nucleus
+VMH_Ventromedial Hypothalamic Nucleus,"VMH_Ventromedial Hypothalamic Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,10_dorsal motor nucleus of the vagus
+10_dorsal motor nucleus of the vagus,"10_dorsal motor nucleus of the vagus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,ET_Epithalamus
+ET_Epithalamus,Hb_Habenular Nuclei
+Hb_Habenular Nuclei,"Hb_Habenular Nuclei, Right"
+"Hb_Habenular Nuclei, Right","Hl_Lateral Habenular Nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,SFG_superior frontal gyrus
+SFG_superior frontal gyrus,"SFG_superior frontal gyrus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,Amg_Amygdala
+Amg_Amygdala,BMA_Basomedial Nucleus
+BMA_Basomedial Nucleus,"BMA_Basomedial nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,IFG_inferior frontal gyrus
+IFG_inferior frontal gyrus,"opIFG_inferior frontal gyrus, opercular part"
+"opIFG_inferior frontal gyrus, opercular part","opIFG_inferior frontal gyrus, opercular part, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,MeRF_medullary reticular formation
+MeRF_medullary reticular formation,LMRt_lateral medullary reticular group
+LMRt_lateral medullary reticular group,"LMRt_lateral medullary reticular group, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,OTG_occipito-temporal gyrus
+OTG_occipito-temporal gyrus,"OTG_occipito-temporal gyrus, Right"
+"OTG_occipito-temporal gyrus, Right","OTG-i_occipito-temporal gyrus, Right, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,SPL_supraparietal lobule
+SPL_supraparietal lobule,"SPL_supraparietal lobule, Left"
+"SPL_supraparietal lobule, Left","SPL-s_supraparietal lobule, Left, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,Bpons_Basal Part of Pons
+Bpons_Basal Part of Pons,Pn_pontine nuclei
+Pn_pontine nuclei,"Pn_pontine nuclei, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,ITG_inferior temporal gyrus
+ITG_inferior temporal gyrus,"ITG_inferior temporal gyrus, Left"
+"ITG_inferior temporal gyrus, Left","ITG-l_inferior temporal gyrus, Left, lateral bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-Crus II_Crus II
+Cb-Crus II_Crus II,"He-Crus II_Crus II, Right Lateral Hemisphere"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,VT_Ventral Thalamus
+VT_Ventral Thalamus,"VT_Ventral Thalamus, Left"
+"VT_Ventral Thalamus, Left","ZI_Zona Incerta, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,MeRF_medullary reticular formation
+MeRF_medullary reticular formation,LMRt_lateral medullary reticular group
+LMRt_lateral medullary reticular group,"LMRt_lateral medullary reticular group, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-VI_VI
+Cb-VI_VI,"PV-VI_VI, Right Paravermis"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BG_Basal Ganglia
+BG_Basal Ganglia,Str_Striatum
+Str_Striatum,Cd_Caudate Nucleus
+Cd_Caudate Nucleus,TCd_Tail of the Caudate Nucleus
+TCd_Tail of the Caudate Nucleus,"TCd_Tail of Caudate Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,MamR_Mammillary Region
+MamR_Mammillary Region,MB_Mammillary Body
+MB_Mammillary Body,"MB_Mammillary Body, Left"
+"MB_Mammillary Body, Left","MM_Medial mammillary Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BG_Basal Ganglia
+BG_Basal Ganglia,GP_Globus Pallidus
+GP_Globus Pallidus,"GPi_globus pallidus, internal segment"
+"GPi_globus pallidus, internal segment","GPi_globus pallidus, internal segment, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,ET_Epithalamus
+ET_Epithalamus,Pa_Paraventricular Nuclei of Thalamus
+Pa_Paraventricular Nuclei of Thalamus,"Pa_Paraventricular Nuclei, Left of Thalamus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,PrG_precentral gyrus
+PrG_precentral gyrus,"PrG_precentral gyrus, Right"
+"PrG_precentral gyrus, Right","PrG-il_precentral gyrus, Right, inferior lateral aspect of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,SOG_superior occipital gyrus
+SOG_superior occipital gyrus,"SOG_superior occipital gyrus, Left"
+"SOG_superior occipital gyrus, Left","SOG-i_superior occipital gyrus, Left, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-AL_Anterior Lobe
+Cb-AL_Anterior Lobe,Cb-IV_IV
+Cb-IV_IV,"PV-IV_IV, Left Paravermis"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,DT_Dorsal Thalamus
+DT_Dorsal Thalamus,ILr_Rostral Group of Intralaminar Nuclei
+ILr_Rostral Group of Intralaminar Nuclei,"ILr_Rostral Group of intralaminar Nuclei, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,fro_frontal operculum
+fro_frontal operculum,"fro_frontal operculum, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,8Co_cochlear nuclei
+8Co_cochlear nuclei,"8Co_cochlear nuclei, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,SFG_superior frontal gyrus
+SFG_superior frontal gyrus,"SFG_superior frontal gyrus, Right"
+"SFG_superior frontal gyrus, Right","SFG-m_superior frontal gyrus, Right, medial bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,SCG_subcallosal gyrus
+SCG_subcallosal gyrus,"SCG_subcallosal gyrus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbN_Cerebellar Nuclei
+CbN_Cerebellar Nuclei,Fas_Fastigial Nucleus
+Fas_Fastigial Nucleus,"Fas_Fastigial Nucleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,MTG_middle temporal gyrus
+MTG_middle temporal gyrus,"MTG_middle temporal gyrus, Right"
+"MTG_middle temporal gyrus, Right","MTG-s_middle temporal gyrus, Right, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,SRoG_superior rostral gyrus
+SRoG_superior rostral gyrus,"SRoG_superior rostral gyrus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,MeRF_medullary reticular formation
+MeRF_medullary reticular formation,CMRt_central medullary reticular group
+CMRt_central medullary reticular group,"CMRt_central medullary reticular group, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,OTG_occipito-temporal gyrus
+OTG_occipito-temporal gyrus,"OTG_occipito-temporal gyrus, Right"
+"OTG_occipito-temporal gyrus, Right","OTG-s_occipito-temporal gyrus, Right, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,CgG_Cingulate gyrus
+CgG_Cingulate gyrus,"CgGp_Cingulate gyrus, parietal part"
+"CgGp_Cingulate gyrus, parietal part","CgGp_Cingulate gyrus, parietal part, Left"
+"CgGp_Cingulate gyrus, parietal part, Left","CgGp-i_Cingulate gyrus, parietal part, Left, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,AHR_Anterior Hypothalamic Region
+AHR_Anterior Hypothalamic Region,AHA_Anterior Hypothalamic Area
+AHA_Anterior Hypothalamic Area,"AHA_Anterior Hypothalamic Area, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,SPL_supraparietal lobule
+SPL_supraparietal lobule,"SPL_supraparietal lobule, Right"
+"SPL_supraparietal lobule, Right","SPL-s_supraparietal lobule, Right, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MY_Myelencephalon
+MY_Myelencephalon,Cu_cuneate nucleus
+Cu_cuneate nucleus,"Cu_cuneate nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,6_abducens nucleus
+6_abducens nucleus,"6_abducens nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BG_Basal Ganglia
+BG_Basal Ganglia,Str_Striatum
+Str_Striatum,Cd_Caudate Nucleus
+Cd_Caudate Nucleus,TCd_Tail of the Caudate Nucleus
+TCd_Tail of the Caudate Nucleus,"TCd_Tail of Caudate Nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,Cun_cuneus
+Cun_cuneus,"Cun_cuneus, Left"
+"Cun_cuneus, Left","Cun-str_cuneus, Left, striate"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-Crus I_Crus I
+Cb-Crus I_Crus I,"PV-Crus I_Crus I, Left Paravermis"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,HiF_hippocampal formation
+HiF_hippocampal formation,CA4_CA4 field
+CA4_CA4 field,"CA4_CA4 field, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,FuG_fusiform gyrus
+FuG_fusiform gyrus,"FuG_fusiform gyrus, Right"
+"FuG_fusiform gyrus, Right","FuG-cos_fusiform gyrus, Right, bank of cos"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,DT_Dorsal Thalamus
+DT_Dorsal Thalamus,DTM_Medial Group of Nuclei
+DTM_Medial Group of Nuclei,"DTM_Medial Group of Nuclei, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-VIIB_VIIB
+Cb-VIIB_VIIB,"He-VIIB_VIIB, Left Lateral Hemisphere"
+Br_Brain,WM_White Matter
+WM_White Matter,TELWM_Telencephalic White Matter
+TELWM_Telencephalic White Matter,TelTr_Telencephalic White Matter Tracts
+TelTr_Telencephalic White Matter Tracts,cgb_cingulum bundle
+cgb_cingulum bundle,"cgb_cingulum bundle, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,FuG_fusiform gyrus
+FuG_fusiform gyrus,"FuG_fusiform gyrus, Right"
+"FuG_fusiform gyrus, Right","FuG-its_fusiform gyrus, Right, bank of the its"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,PHG_parahippocampal gyrus
+PHG_parahippocampal gyrus,"PHG_parahippocampal gyrus, Right"
+"PHG_parahippocampal gyrus, Right","PHG-l_parahippocampal gyrus, Right, lateral bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,HiF_hippocampal formation
+HiF_hippocampal formation,CA3_CA3 field
+CA3_CA3 field,"CA3_CA3 field, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-AL_Anterior Lobe
+Cb-AL_Anterior Lobe,Cb-IV_IV
+Cb-IV_IV,"He-IV_IV, Left Lateral Hemisphere"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,FP_frontal pole
+FP_frontal pole,"FP_frontal pole, Left"
+"FP_frontal pole, Left","FPi_frontal pole, Left, inferior aspect"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,PL_Parietal Lobe
+PL_Parietal Lobe,SPL_supraparietal lobule
+SPL_supraparietal lobule,"SPL_supraparietal lobule, Right"
+"SPL_supraparietal lobule, Right","SPL-i_supraparietal lobule, Right, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,CxN_Cerebral Nuclei
+CxN_Cerebral Nuclei,BF_Basal Forebrain
+BF_Basal Forebrain,SptN_Septal nuclei
+SptN_Septal nuclei,"SptN_Septal nuclei, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,POrG_posterior orbital gyrus
+POrG_posterior orbital gyrus,"POrG_posterior orbital gyrus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,IOG_inferior occipital gyrus
+IOG_inferior occipital gyrus,"IOG_inferior occipital gyrus, Left"
+"IOG_inferior occipital gyrus, Left","IOG-i_inferior occipital gyrus, Left, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,MBRF_Midbrain Reticular Formation
+MBRF_Midbrain Reticular Formation,"MBRF_Midbrain Reticular Formation, Right"
+"MBRF_Midbrain Reticular Formation, Right","SubCn_subcuneiform nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,PTG_paraterminal gyrus
+PTG_paraterminal gyrus,"PTG_paraterminal gyrus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,LL_Limbic Lobe
+LL_Limbic Lobe,CgG_Cingulate gyrus
+CgG_Cingulate gyrus,"CgGr_Cingulate gyrus, retrosplenial part"
+"CgGr_Cingulate gyrus, retrosplenial part","CgGr_Cingulate gyrus, retrosplenial part, Right"
+"CgGr_Cingulate gyrus, retrosplenial part, Right","CgGr-i_Cingulate gyrus, retrosplenial part, Right, inferior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,DT_Dorsal Thalamus
+DT_Dorsal Thalamus,ILc_Caudal Group of intralaminar Nuclei
+ILc_Caudal Group of intralaminar Nuclei,"ILc_Caudal Group of Intralaminar Nuclei, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,TH_Thalamus
+TH_Thalamus,DT_Dorsal Thalamus
+DT_Dorsal Thalamus,DTP_Posterior Group of Nuclei
+DTP_Posterior Group of Nuclei,"DTP_Posterior Group of Nuclei, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,"PCLa_paracentral lobule, anterior part"
+"PCLa_paracentral lobule, anterior part","PCLa_paracentral lobule, anterior part, Right"
+"PCLa_paracentral lobule, anterior part, Right","PCLa-s_paracentral lobule, anterior part, Right, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,TL_Temporal Lobe
+TL_Temporal Lobe,FuG_fusiform gyrus
+FuG_fusiform gyrus,"FuG_fusiform gyrus, Left"
+"FuG_fusiform gyrus, Left","FuG-its_fusiform gyrus, Left, bank of the its"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,FL_Frontal Lobe
+FL_Frontal Lobe,IFG_inferior frontal gyrus
+IFG_inferior frontal gyrus,"orIFG_inferior frontal gyrus, orbital part"
+"orIFG_inferior frontal gyrus, orbital part","orIFG_inferior frontal gyrus, orbital part, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,Cun_cuneus
+Cun_cuneus,"Cun_cuneus, Right"
+"Cun_cuneus, Right","Cun-str_cuneus, Right, striate"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,Tel_Telencephalon
+Tel_Telencephalon,Cx_Cerebral Cortex
+Cx_Cerebral Cortex,OL_Occipital Lobe
+OL_Occipital Lobe,OTG_occipito-temporal gyrus
+OTG_occipito-temporal gyrus,"OTG_occipito-temporal gyrus, Left"
+"OTG_occipito-temporal gyrus, Left","OTG-s_occipito-temporal gyrus, Left, superior bank of gyrus"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-AL_Anterior Lobe
+Cb-AL_Anterior Lobe,Cb-IV_IV
+Cb-IV_IV,"PV-IV_IV, Right Paravermis"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,CbH_Cerebellar Hemispheres
+CbH_Cerebellar Hemispheres,Cb-PL_Posterior Lobe
+Cb-PL_Posterior Lobe,Cb-Crus I_Crus I
+Cb-Crus I_Crus I,"PV-Crus I_Crus I, Right Paravermis"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Pons_Pons
+Pons_Pons,PTg_Pontine Tegmentum
+PTg_Pontine Tegmentum,LC_locus ceruleus
+LC_locus ceruleus,"LC_locus ceruleus, Left"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,DiE_Diencephalon
+DiE_Diencephalon,Hy_Hypothalamus
+Hy_Hypothalamus,TubR_Tuberal Region
+TubR_Tuberal Region,VMH_Ventromedial Hypothalamic Nucleus
+VMH_Ventromedial Hypothalamic Nucleus,"VMH_Ventromedial Hypothalamic Nucleus, Right"
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MET_Metencephalon
+MET_Metencephalon,Cb_Cerebellum
+Cb_Cerebellum,CbCx_Cerebellar Cortex
+CbCx_Cerebellar Cortex,Ve_Vermis
+Ve_Vermis,ALVCb_Anterior Lobe of the Vermis
+ALVCb_Anterior Lobe of the Vermis,Ve-I-II_I-II
+Br_Brain,GM_Grey Matter
+GM_Grey Matter,MES_Mesencephalon
+MES_Mesencephalon,MTg_Midbrain Tegmentum
+MTg_Midbrain Tegmentum,EW_Edinger Westphal nucleus
+EW_Edinger Westphal nucleus,"EW_Edinger Westphal nucleus, Right"
