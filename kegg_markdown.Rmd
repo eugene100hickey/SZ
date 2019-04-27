@@ -1,0 +1,79 @@
+---
+title: "KEGG Pathways"
+author: "Eugene"
+date: "2/14/2019"
+output: pdf_document
+classoption: landscape
+---
+
+```{r setup, echo = F, message = F, warning = F}
+library(Homo.sapiens)
+library(AnnotationDbi)
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+library(xml2)
+library(rvest)
+```
+
+```{r initial_pathways, echo = F, message = F, warning = F, cache = T}
+url <- "https://www.genome.jp/kegg/pathway.html"
+w <- read_html(url)
+pathway_data_html <- html_nodes(w, "dd a , b+ .list dt")
+pathway_data <- html_text(pathway_data_html)
+pathway_numbers <- pathway_data[c(T, F)]
+pathway_names <- pathway_data[c(F, T)]
+pathways <- data_frame(PATH = pathway_numbers, names = pathway_names)
+```
+
+```{r group_pathways, echo = F, message = F, warning = F, cache = T}
+pathway_all_html <- html_nodes(w, ".clear+ b , h4+ b , dd a , b+ .list dt , a+ b")
+pathway_all <- html_text(pathway_all_html)
+pathway_all <- data_frame(entry = pathway_all) %>%
+  filter(!entry %in% pathways$PATH) %>%
+  rownames_to_column() %>%
+  filter(!entry %in% pathways$names) %>%
+  mutate(rowname = as.numeric(rowname))
+
+group_lengths <- c(
+  as.numeric(pathway_all$rowname),
+  dim(pathways)[1] + dim(pathway_all)[1] + 1)
+```
+
+
+```{r groups_and_pathways, echo = F, message = F, warning = F, cache = T}
+group_lengths <- group_lengths[-1]
+group_lengths <- group_lengths - pathway_all$rowname - 1
+pathways <- cbind(pathways, category = rep(pathway_all$entry, group_lengths))
+
+pathway_groups_html <- html_nodes(w, "a+ h4")
+pathway_groups <- html_text(pathway_groups_html)
+pw <- strsplit(x = as.character(pathways$category), split = ".", fixed = T) %>%
+  unlist()
+pw <- pw[c(T, F)]
+pathways <- cbind(pathways, cat_number = pw)
+
+pwg <- strsplit(pathway_groups, ".", fixed = T)
+pwg <- unlist(pwg)
+pwg <- pwg[-length(pwg)]
+pwg <- data_frame(cat_number = pwg[c(T, F)], cat_name = pwg[c(F, T)])
+pathways <- left_join(pathways, pwg)
+```
+
+```{r scz, echo = F, message = F, warning = F, cache = T}
+setwd("~/Desktop/Academic/Research/Schiz/SZ")
+gene1 <- suppressWarnings(read_csv("nature13595-s3.csv")$`eQTL gene`)
+gene2 <- suppressWarnings(read_csv("nature13595-s3-blood.csv")$`eQTL gene`)
+
+sz_genes <- c(gene1, gene2)
+
+z <- AnnotationDbi::select(org.Hs.eg.db,
+  keytype = "SYMBOL",
+  columns = c("SYMBOL", "PATH", "MAP"), keys = sz_genes
+) %>%
+  distinct()
+sz_paths <- left_join(z, pathways)
+
+sz_paths %>% kable() %>% kable_styling()
+```
+
